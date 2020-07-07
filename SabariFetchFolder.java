@@ -459,8 +459,8 @@ public class SabariFetchFolder {
         try {
             String protocol = "imaps";
             String host = "imap.gmail.com";
-            String username = "sabarishv892@gmail.com";
-            String password = "jiypeyoxorovhhmf";
+            String username = "user gmail account";
+            String password = "user password";
 
             Properties prop = new Properties();
             prop.put("mail.imaps.partialfetch", false);
